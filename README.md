@@ -9,5 +9,5 @@ Currently tracks touch paths, archives paths, and registers successful hits. Nex
 - A helper JS file, improved-array-class.js (Imported from julianjensen/vector)
 - HTML and CSS, index.html
 ## Next Steps
-Downloading paths, diagrams current vs improved targetareas, URL.
+Deactivating canvas and archiving path on success. Downloading paths, diagrams current vs improved targetareas, URL.
  
