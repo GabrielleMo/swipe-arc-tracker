@@ -1,9 +1,9 @@
-/* -- VECTOR script ends here ------------------------------------ */
+/* -- VECTOR script ends here ------------------------------------------ */
 
 
-/* --------------------------------------------------------------- */
-/* -- 'myTracker' script based on Mozilla Touch Events tutorial -- */
-/* -- G Moehring 2018 May 07, version: VERYROUGH ----------------- */
+/* --------------------------------------------------------------------- */
+/* -- 'myTracker' grew and evolved from Mozilla Touch Events tutorial -- */
+/* -- G Moehring 2018 May 07, version: VERYROUGH ----------------------- */
 
 'use strict';
 
